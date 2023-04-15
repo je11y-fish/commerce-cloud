@@ -78,7 +78,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/je11y-fish/commerce-cloud-docx',
             label: 'GitHub',
             position: 'right',
           },
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Commerce Cloud, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
