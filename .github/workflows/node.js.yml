@@ -22,4 +22,4 @@ jobs:
     steps:
     - run: npm install yarn
     - run: yarn install
-    - run: yarn start
+    - run: yarn serve
